@@ -1,5 +1,3 @@
-# Sundown-Studio-Clone
-A front-end clone of the Sundown Studio website, built with GSAP for animations and Lenis for smooth scrolling.
 # Sundown Studio - Website Clone
 
 This is a front-end recreation of the Sundown Studio agency website. The project focuses on replicating the original site's modern design, smooth scroll behavior, and complex GSAP animations.
