@@ -4,7 +4,7 @@ This is a front-end recreation of the Sundown Studio agency website. The project
 
 ### 🚀 Live Demo
 
-**[View the live project here](https://your-username.github.io/your-repo-name/)**
+**[View the live project here] >>  https://clay-0101.github.io/Sundown-Studio-Clone/
 
 *(Remember to replace the link above with your actual GitHub Pages URL after deploying!)*
 
